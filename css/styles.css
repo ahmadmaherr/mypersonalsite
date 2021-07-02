@@ -1,0 +1,191 @@
+.topcontainer {
+  background-color: #0A81AB;
+  padding-top: 50px;
+}
+
+.middle-container {
+  margin-top: 10px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 0;
+  margin-bottom: 0;
+}
+
+body {
+  text-align: center;
+  font-family: "Georgia", sans-serif;
+  line-height: 2;
+  margin: 0;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 0;
+  color: #52006A;
+  margin-bottom: 0;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 400px;
+}
+
+.topcloud {
+  position: relative;
+  left: 200px;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 0;
+}
+
+
+
+.profile {
+  width: 50%;
+  margin: 20px auto 50px auto;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 0;
+  color: #52006A;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 15px;
+  color: #5D534A;
+}
+
+.skill1 {
+  float: right;
+  margin-left: 20px;
+}
+
+.software{float: right;
+  position: relative;
+right:1px;
+top: 70px;
+
+}
+
+.tables
+{
+  font-size: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 20px auto 40px auto;
+  text-align: left;
+}
+
+.skill-row0 {
+  width: 50%;
+  margin: 20px auto 40px auto;
+  text-align: left;
+  display: block;
+}
+
+.languages {
+  float: right;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.btn{
+  text-align: center;
+background-color: #52006A;
+padding: 15px 20px;
+color: white;
+font-size: 20px;
+border-style: inset;
+border-color: black;
+text-decoration: none;
+}
+
+ .btn:hover{
+   background-color: white;
+   color: black;
+ }
+
+.lasthr
+{
+  margin-bottom: 40px;
+}
+
+.bottom-container
+{
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+.footer-link
+{
+  background-color: #0a66c2;
+  padding: 15px 20px;
+  color: white;
+  font-size: 20px;
+  border-style: inset;
+  border-color: black;
+  text-decoration: none;
+  margin-bottom: 40px;
+}
+
+.footer-link:hover {
+  background-color: white;
+  color: black;
+}
+
+.contact-me
+{
+text-align: center;
+    margin-top: 30px;
+
+
+}
+
+.copy{
+font-size: 12px;
+color: grey;
+}
+
+.Certificates
+{
+  float: right;
+position: relative;
+left: 50px;
+}
+
+table.customTable {
+
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #7ea8f8;
+  border-style: solid;
+  color: #000000;
+}
+
+table.customTable td, table.customTable th {
+  border-width: 2px;
+  border-color: #7ea8f8;
+  border-style: solid;
+  padding: 5px;
+}
+
+table.customTable thead {
+  background-color: #7ea8f8;
+}
+
+.customTable
+{
+  position: relative;
+  top: 30px;
+
+}
